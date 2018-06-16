@@ -1,0 +1,1 @@
+fangxing2创建php2文件 看看fangxing1是否含有该文件
